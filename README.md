@@ -299,137 +299,133 @@ Audio Caption: Listen and Tell</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(155).pdf" style="text-decoration:none;">Hierarchical Decision Making by Generating and Following Natural Language Instructions</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(156).pdf" style="text-decoration:none;">Concurrency Control for Multi-Processor Event-Driven Systems</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(157).pdf" style="text-decoration:none;">Fast and secure distributed read-only file system</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(158).pdf" style="text-decoration:none;">Shenango: Achieving High CPU Efficiency for
-Latency-sensitive Datacenter Workloads</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(156).pdf" style="text-decoration:none;">Learning Representations by Maximizing Mutual Information Across Views</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(157).pdf" style="text-decoration:none;">Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(158).pdf" style="text-decoration:none;">Learning to Compose and Reason with
+Language Tree Structures for Visual Grounding</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(159).pdf" style="text-decoration:none;">View-Centric Performance Optimization for
-Database-Backed Web Applications </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(159).pdf" style="text-decoration:none;">Towards Multimodal Sarcasm Detection
+(An Obviously Perfect Paper) </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(160).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access Control for User Data in Untrusted Clouds</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(160).pdf" style="text-decoration:none;">Learning Individual Styles of Conversational Gesture</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(161).pdf" style="text-decoration:none;">Lattice Transformer for Speech Translation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(162).pdf" style="text-decoration:none;">Splinter: Practical Private Queries on Public Data</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(163).pdf" style="text-decoration:none;">The Science of Software and System Design </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(162).pdf" style="text-decoration:none;">Learning Video Representations using Contrastive Bidirectional Transformer</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(163).pdf" style="text-decoration:none;">Language as an Abstraction
+for Hierarchical Deep Reinforcement Learning </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(164).pdf" style="text-decoration:none;">A Measurement Study of Available Bandwidth Estimation Tools</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(164).pdf" style="text-decoration:none;">Distilling Translations with Visual Awareness</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(165).pdf" style="text-decoration:none;">Designing multicore scalable filesystems with durability and crash consistency</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(165).pdf" style="text-decoration:none;">RUBi: Reducing Unimodal Biases
+for Visual Question Answering</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(166).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(166).pdf" style="text-decoration:none;">Learning Representations from Imperfect Time Series Data via Tensor Rank Regularization</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(167).pdf" style="text-decoration:none;">SSL Splitting and Barnraising: Cooperative Caching with Authenticity Guarantees</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(167).pdf" style="text-decoration:none;">Language2Pose: Natural Language Grounded Pose Forecasting</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(168).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(169).pdf" style="text-decoration:none;">SSL Splitting</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(170).pdf" style="text-decoration:none;">Structured Streams: a New Transport Abstraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(171).pdf" style="text-decoration:none;">Towards Optimization-Safe Systems:
-Analyzing the Impact of Undefined Behavior</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(172).pdf" style="text-decoration:none;">Stadium: A Distributed Metadata-Private
-Messaging System</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(173).pdf" style="text-decoration:none;">Certifying Checksum-Based Logging in the
-RapidFSCQ Crash-Safe Filesystem</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(168).pdf" style="text-decoration:none;">Vision-and-Dialog Navigation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(169).pdf" style="text-decoration:none;">OmniNet: A unified architecture for multi-modal multi-task learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(170).pdf" style="text-decoration:none;">ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(171).pdf" style="text-decoration:none;">VisualBERT: A Simple and Performant Baseline for Vision and Language</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(172).pdf" style="text-decoration:none;">VideoNavQA: Bridging the Gap between
+Visual and Embodied Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(173).pdf" style="text-decoration:none;">Fusion of Detected Objects in Text for Visual Question Answering</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(174).pdf" style="text-decoration:none;">Flexible, Wide-Area Storage for Distributed Systems Using Semantic Cues</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(175).pdf" style="text-decoration:none;">Tolerating Malicious Device Drivers in Linux</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(176).pdf" style="text-decoration:none;">Sybil-resistant DHT routing</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(174).pdf" style="text-decoration:none;">Integrating Multimodal Information in Large Pretrained Transformers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(175).pdf" style="text-decoration:none;">Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(176).pdf" style="text-decoration:none;">LXMERT: Learning Cross-Modality Encoder Representations from Transformers</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(177).pdf" style="text-decoration:none;">A Sybil-proof one-hop DHT</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(177).pdf" style="text-decoration:none;">ViCo: Word Embeddings from Visual Co-occurrences</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(178).pdf" style="text-decoration:none;">Graduate Admissions at MIT and Comparison-based
-Rank Aggregation: A Case Study</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(179).pdf" style="text-decoration:none;">Automatic intrusion recovery with system-wide history</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(178).pdf" style="text-decoration:none;">VL-BERT: Pre-training of Generic Visual-Linguistic Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(179).pdf" style="text-decoration:none;">Towards Unsupervised Image Captioning with Shared Multimodal Embeddings</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(180).pdf" style="text-decoration:none;">Events Can Make Sense</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(180).pdf" style="text-decoration:none;">Interactive Language Learning by Question Answering</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(181).pdf" style="text-decoration:none;">Optimizing unit test execution in large software programs using dependency analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(182).pdf" style="text-decoration:none;">Verifying an I/O-Concurrent File System </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(183).pdf" style="text-decoration:none;">Proactive replication for data durability</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(181).pdf" style="text-decoration:none;">RTFM: Generalising to Novel Environment Dynamics via Reading</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(182).pdf" style="text-decoration:none;">Heterogeneous Graph Learning for Visual
+Commonsense Reasoning </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(183).pdf" style="text-decoration:none;">Few-shot Video-to-Video Synthesis</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(184).pdf" style="text-decoration:none;">Language and Compiler Support for Dynamic Code Generation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(184).pdf" style="text-decoration:none;">Shaping Visual Representations with Language for Few-Shot Classification</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(185).pdf" style="text-decoration:none;">A Revised and Verified Proof of the Scalable Commutativity Rule</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(185).pdf" style="text-decoration:none;">Dynamic Fusion for Multimodal Data</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(186).pdf" style="text-decoration:none;">Processing Analytical Queries over Encrypted Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(186).pdf" style="text-decoration:none;">Affective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(187).pdf" style="text-decoration:none;">Skip Lists: A Probabilistic Alternative to
-Balanced Trees</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(187).pdf" style="text-decoration:none;">Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(188).pdf" style="text-decoration:none;">Undefined Behavior: What Happened to My Code?</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(188).pdf" style="text-decoration:none;">Two Causal Principles for Improving Visual Dialog</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(189).pdf" style="text-decoration:none;">UserRelative
-Names for Globally Connected Personal Devices</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(190).pdf" style="text-decoration:none;">Google's DeepWeb
-Crawl</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(189).pdf" style="text-decoration:none;">Self-Supervised Learning by Cross-Modal Audio-Video Clustering</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(190).pdf" style="text-decoration:none;">12-in-1: Multi-Task Vision and Language Representation Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(191).pdf" style="text-decoration:none;">Persistent Personal Names for Globally Connected Mobile Devices  </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(191).pdf" style="text-decoration:none;">End-to-end facial and physiological model for Affective Computing and applications  </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(192).pdf" style="text-decoration:none;">Concurrent Data Structures</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(192).pdf" style="text-decoration:none;">A Logical Model for Supporting Social Commonsense Knowledge Acquisition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(193).pdf" style="text-decoration:none;">Scalable Internet Routing
-on Topology-Independent Node Identities</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(193).pdf" style="text-decoration:none;">Visual Agreement Regularized Training for Multi-Modal Machine Translation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(194).pdf" style="text-decoration:none;">Unmanaged Internet Protocol: Taming the Edge Network Management Crisis</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(194).pdf" style="text-decoration:none;">Towards Learning a Generic Agent for
+Vision-and-Language Navigation via Pre-training</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(195).pdf" style="text-decoration:none;">The A-Z of Programming Languages</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(195).pdf" style="text-decoration:none;">Visual Grounding in Video for UnsupervisedWord Translation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(196).pdf" style="text-decoration:none;">UsenetDHT: A low-overhead design for Usenet</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(196).pdf" style="text-decoration:none;">VIOLIN: A Large-Scale Dataset for Video-and-Language Inference</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(197).pdf" style="text-decoration:none;">Making Linux Protection Mechanisms Egalitarian with UserFS</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(197).pdf" style="text-decoration:none;">Music Gesture for Visual Sound Separation</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(198).pdf" style="text-decoration:none;">Veil: Private Browsing Semantics Without
-Browser-side Assistance</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(198).pdf" style="text-decoration:none;">Improving Vision-and-Language Navigation with Image-Text Pairs from the Web</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(199).pdf" style="text-decoration:none;">VerSum: Verifiable Computations over Large Public Logs</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(199).pdf" style="text-decoration:none;">Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(200).pdf" style="text-decoration:none;">Security bugs in embedded interpreters</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(200).pdf" style="text-decoration:none;">The Hateful Memes Challenge:
+Detecting Hate Speech in Multimodal Memes</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(201).pdf" style="text-decoration:none;">Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(201).pdf" style="text-decoration:none;">Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(202).pdf" style="text-decoration:none;">Vuvuzela: a scalable private messaging system</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(202).pdf" style="text-decoration:none;">CoMIR: Contrastive Multimodal Image
+Representation for Registration</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(203).pdf" style="text-decoration:none;">Vx32: Lightweight User-level Sandboxing on the x86</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(203).pdf" style="text-decoration:none;">Labelling unlabelled videos
+from scratch with multi-modal self-supervision</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(204).pdf" style="text-decoration:none;">VXA: A Virtual Architecture for Durable Compressed Archives</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(205).pdf" style="text-decoration:none;">Programming Languages: A Brief Review</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(206).pdf" style="text-decoration:none;">A World Wide Web Without Walls</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(207).pdf" style="text-decoration:none;">Intrusion Recovery for Database-backed Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(204).pdf" style="text-decoration:none;">Self-Supervised MultiModal Versatile Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(205).pdf" style="text-decoration:none;">Towards Debiasing Sentence Representations</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(206).pdf" style="text-decoration:none;">
+Grounded Language Learning Fast and Slow</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(207).pdf" style="text-decoration:none;">FairCVtest Demo: Understanding Bias in Multimodal Learning with a Testbed in Fair Automatic Recruitment</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(208).pdf" style="text-decoration:none;">Understanding Programming Languages</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(208).pdf" style="text-decoration:none;">Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(209).pdf" style="text-decoration:none;">Dos and Don'ts of Client Authentication on the Web</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(210).pdf" style="text-decoration:none;">Whanau: A Sybil-Proof Distributed Hash Table</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(209).pdf" style="text-decoration:none;">Strategies for Multi-Modal Scene Exploration</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(210).pdf" style="text-decoration:none;">Deep Multimodal Fusion by Channel Exchanging</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(211).pdf" style="text-decoration:none;">Efficient File Distribution in a Flexible, Wide-area File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(211).pdf" style="text-decoration:none;">Multimodal Transformer for Multimodal Machine Translation</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(212).pdf" style="text-decoration:none;">Securing Wide-area Storage in WheelFS</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(213).pdf" style="text-decoration:none;">Building reliable mobile-aware applications using the Rover toolkit</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(212).pdf" style="text-decoration:none;">What Does BERT with Vision Look At?</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(213).pdf" style="text-decoration:none;">Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(214).pdf" style="text-decoration:none;">A Differential Approach to Undefined Behavior Detection</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(215).pdf" style="text-decoration:none;">A Comparison of Designs for
-Extensible and Extension-Oriented Compilers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(214).pdf" style="text-decoration:none;">Simplifying Coreference Chains for Dyslexic Children</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(215).pdf" style="text-decoration:none;">Multimodal Learning with Deep Boltzmann Machines</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(216).pdf" style="text-decoration:none;">Xoc, an Extension-Oriented Compiler for Systems Programming</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(217).pdf" style="text-decoration:none;">Improving Web Site Security with Data Flow
-Management</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(216).pdf" style="text-decoration:none;">Deep Canonical Correlation Analysis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(217).pdf" style="text-decoration:none;">Look, Listen and Learn</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(218).pdf" style="text-decoration:none;">Yodel: Strong Metadata Security for Voice Calls</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(219).pdf" style="text-decoration:none;">Compiling Gallina to Go for the FSCQ File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(220).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table with
-LRU Eviction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(218).pdf" style="text-decoration:none;">Machine Learning in Multimodal Medical Imaging</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(219).pdf" style="text-decoration:none;">Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(220).pdf" style="text-decoration:none;">IEMOCAP: Interactive emotional dyadic motion capture database</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(221).pdf" style="text-decoration:none;">Quantum Computer
-Programming</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(222).pdf" style="text-decoration:none;">A Mathematical Theory of Communication</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(221).pdf" style="text-decoration:none;">Is an ImageWorth More than a Thousand Words? On the Fine-Grain Semantic Differences between Visual and Linguistic Representations</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(222).pdf" style="text-decoration:none;">An empirical study on the effectiveness of images in Multimodal Neural Machine Translation</a></li> 
 
  
  </ul>
