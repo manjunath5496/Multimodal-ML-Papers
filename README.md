@@ -501,40 +501,40 @@ with Backpropagation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(259).pdf" style="text-decoration:none;">Doubly-Attentive Decoder for Multi-modal Neural Machine Translation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(260).pdf" style="text-decoration:none;">Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(261).pdf" style="text-decoration:none;">Learning Translations via Images with a Massively Multilingual Image Dataset</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(40).pdf" style="text-decoration:none;">Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(41).pdf" style="text-decoration:none;">SCAN: Learning Hierarchical Compositional Visual Concepts</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(42).pdf" style="text-decoration:none;">Tensor Fusion Network for Multimodal Sentiment Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(262).pdf" style="text-decoration:none;">Do Neural Network Cross-Modal Mappings Really Bridge Modalities?</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(263).pdf" style="text-decoration:none;">Language Modelling Makes Sense: Propagating Representations through WordNet for Full-CoverageWord Sense Disambiguation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(264).pdf" style="text-decoration:none;">Probabilistic Multimodal Modeling for
+Human-Robot Interaction Tasks</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(43).pdf" style="text-decoration:none;">Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(44).pdf" style="text-decoration:none;">Localizing Moments in Video with Natural Language</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(45).pdf" style="text-decoration:none;">Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(265).pdf" style="text-decoration:none;">Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(266).pdf" style="text-decoration:none;">See, Hear, and Read: Deep Aligned Representations</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(267).pdf" style="text-decoration:none;">Capture, Learning, and Synthesis of 3D Speaking Styles</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(46).pdf" style="text-decoration:none;">Cross-modal Recurrent Models for Weight Objective Prediction from Multimodal Time-series Data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(268).pdf" style="text-decoration:none;">Grounding language acquisition by training semantic parsers using captioned videos</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(47).pdf" style="text-decoration:none;">Fooling Vision and Language Models
-Despite Localization and Attention Mechanism</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(48).pdf" style="text-decoration:none;">Emergent Translation in Multi-Agent Communication</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(269).pdf" style="text-decoration:none;">A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(270).pdf" style="text-decoration:none;">Zero-Shot Learning Through Cross-Modal Transfer</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(49).pdf" style="text-decoration:none;">Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(271).pdf" style="text-decoration:none;">Grounded Compositional Semantics
+for Finding and Describing Images with Sentences</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(50).pdf" style="text-decoration:none;">Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(51).pdf" style="text-decoration:none;">Learning Multi-ModalWord Representation Grounded in Visual Context</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(52).pdf" style="text-decoration:none;">Look, Imagine and Match:
-Improving Textual-Visual Cross-Modal Retrieval with Generative Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(272).pdf" style="text-decoration:none;">The emergence of compositional structures in perceptually grounded language games</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(273).pdf" style="text-decoration:none;">Does Multimodality Help Human and Machine for Translation and Image Captioning?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(274).pdf" style="text-decoration:none;">Multi30K: Multilingual English-German Image Descriptions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(53).pdf" style="text-decoration:none;">Neural Motifs: Scene Graph Parsing with Global Context</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(275).pdf" style="text-decoration:none;">Multi-modal Discriminative Model for Vision-and-Language Navigation</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(54).pdf" style="text-decoration:none;">Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(276).pdf" style="text-decoration:none;">Co-compressing and Unifying Deep CNN Models for Efficient Human Face and Speaker Recognition </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(55).pdf" style="text-decoration:none;">Video Captioning via Hierarchical Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(277).pdf" style="text-decoration:none;">On Deep Multi-View Representation Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(56).pdf" style="text-decoration:none;">Embodied Question Answering </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(278).pdf" style="text-decoration:none;">Unified Visual-Semantic Embeddings:
+Bridging Vision and Language with Structured Meaning Representations </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(57).pdf" style="text-decoration:none;">Don't Just Assume; Look and Answer:
-Overcoming Priors for Visual Question Answering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(279).pdf" style="text-decoration:none;">XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(58).pdf" style="text-decoration:none;">Grounding Referring Expressions in Images by Variational Context</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(59).pdf" style="text-decoration:none;">Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(280).pdf" style="text-decoration:none;">Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Multimodal-ML-Papers/blob/master/cv(281).pdf" style="text-decoration:none;">Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence</a></li>
  
 
 
